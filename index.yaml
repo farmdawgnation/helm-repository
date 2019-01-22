@@ -2,12 +2,21 @@ apiVersion: v1
 entries:
   ghost-helm:
   - apiVersion: v1
+    appVersion: 2.11.1
+    created: 2019-01-21T21:47:30.893887-05:00
+    description: A Ghost deployment in Helm
+    digest: a118760e51d25979607d301e4799c1c57b2335ba3f7190a53ef5ce9178ec679e
+    name: ghost-helm
+    urls:
+    - ghost-helm-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
     appVersion: 2.2.4
-    created: 2019-01-21T16:55:15.670986-05:00
+    created: 2019-01-21T21:47:30.893452-05:00
     description: A Ghost deployment in Helm
     digest: 32a4bd2e76ee1490acf28dea09bba49de861e2a584a09cb445af6bc57764d3da
     name: ghost-helm
     urls:
     - ghost-helm-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-21T16:55:15.670417-05:00
+generated: 2019-01-21T21:47:30.892366-05:00
