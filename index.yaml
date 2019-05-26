@@ -3,7 +3,16 @@ entries:
   ghost:
   - apiVersion: v1
     appVersion: 2.12.0
-    created: 2019-01-31T23:26:03.270109-05:00
+    created: 2019-05-26T17:04:09.743654-04:00
+    description: A Ghost deployment in Helm
+    digest: 0b960e59a2b56a6dd767712a59e3a4a6e5bd1ea130d3e64fc9d72f03978998cd
+    name: ghost
+    urls:
+    - ghost-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v1
+    appVersion: 2.12.0
+    created: 2019-05-26T17:04:09.74319-04:00
     description: A Ghost deployment in Helm
     digest: 16ed72334a8d7ab70655922f8cbf16b3970c05f11b24d9b2bfef8ff4eacabef2
     name: ghost
@@ -12,7 +21,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 2.12.0
-    created: 2019-01-31T23:26:03.269666-05:00
+    created: 2019-05-26T17:04:09.741866-04:00
     description: A Ghost deployment in Helm
     digest: c78d0999330945dea437752b7ede55438253649344bf26f062b39618f4d1b79b
     name: ghost
@@ -21,7 +30,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 2.11.1
-    created: 2019-01-31T23:26:03.268933-05:00
+    created: 2019-05-26T17:04:09.741277-04:00
     description: A Ghost deployment in Helm
     digest: 755afe5c5e8887f98e5d2c2700a7baab99d06c6ca2ec1f474c7d4bb2310cd6f6
     name: ghost
@@ -31,7 +40,7 @@ entries:
   ghost-helm:
   - apiVersion: v1
     appVersion: 2.11.1
-    created: 2019-01-31T23:26:03.271454-05:00
+    created: 2019-05-26T17:04:09.745003-04:00
     description: A Ghost deployment in Helm
     digest: a118760e51d25979607d301e4799c1c57b2335ba3f7190a53ef5ce9178ec679e
     name: ghost-helm
@@ -40,11 +49,11 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 2.2.4
-    created: 2019-01-31T23:26:03.27085-05:00
+    created: 2019-05-26T17:04:09.744306-04:00
     description: A Ghost deployment in Helm
     digest: 32a4bd2e76ee1490acf28dea09bba49de861e2a584a09cb445af6bc57764d3da
     name: ghost-helm
     urls:
     - ghost-helm-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-31T23:26:03.267402-05:00
+generated: 2019-05-26T17:04:09.740073-04:00
